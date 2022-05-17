@@ -1,0 +1,14 @@
+.list-group {
+    border: 1px dashed gray;
+    max-height: 80vh;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+input, textarea {
+    width: 100%;
+}
+
+textarea {
+    min-height: 200px;
+}
